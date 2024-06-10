@@ -299,8 +299,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 # scholar:
-  last_name: [Agrawal]
-  first_name: [Tejas, T.]
+  last_name: [Agrawal, A, A., Agarwal]
+  first_name: [Tejas, T., T]
 
   style: apa
   locale: en
