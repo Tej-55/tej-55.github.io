@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Tej-55
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - SforAiDl/CountCLIP
+  - karannb/rank-n-contrast
+  - Tej-55/Albert-perceiver
+  - Tej-55/SAiDL-Summer-Assignment-2023-NLP
+  - Tej-55/SAiDL-Summer-Assignment-2023-CV
+  - Tej-55/SAiDL-Summer-Assignment-2023-Core_ML
