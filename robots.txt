@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tej.github.io/sitemap.xml
+Sitemap: https://tej-55.github.io/sitemap.xml
