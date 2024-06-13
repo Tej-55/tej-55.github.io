@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Taking a QSTP course on Intro to ML from SAiDL alongside Ankita
+Taking a QSTP course on [Intro to ML](https://classroom.google.com/c/NTIzMjY5NjMxNzAx) from SAiDL alongside [Ankita](https://tej-55.github.io/).
