@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got 2nd position in an overnight Moveworks Hackathon on LLMs out of 20 teams having around 80 people!
+Got 2nd position in an overnight Moveworks Hackathon on LLMs out of 20 teams, having around 80 people!
