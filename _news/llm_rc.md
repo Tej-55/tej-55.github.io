@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One of the 8 people selected for a Reading Course on LLMs instructed by Dr. Lovekesh Vig from TCS Research.
+One of the 8 people selected for a Reading Course on LLMs instructed by [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/) from TCS Research.
