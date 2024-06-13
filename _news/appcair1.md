@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined APPCAIR as a student researcher to work under the guidance of Prof. Ashwin Srinivasan, Prof. Tanmay Verelekar of BITS Pilani and Dr. Lovekesh Vig and Dr. Gautam Shroff of TCS Research
+Joined [APPCAIR](https://appcair.com/) as a student researcher to work in collaboration with TCS Research.
