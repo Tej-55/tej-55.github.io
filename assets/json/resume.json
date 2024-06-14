@@ -41,19 +41,28 @@
       "name": "APPCAIR, BITS Pilani",
       "position": "Student Researcher",
       "url": "",
-      "startDate": "2023-08-01",
-      "endDate": "2023-12-31",
-      "summary": "Under the guidance of Senior Prof. Ashwin Srinivasan, Dr. Lovekesh Vig and Dr. Gautam Shroff, I worked in collaboration with TCS research, to study and analyze the performance of LLM's ability to reason over arguments by introducing Argumentative Reasoning.",
-      "highlights": ["Large Language Models", "LLM Agents"]
+      "startDate": "2024-01-01",
+      "endDate": "2024-05-31",
+      "summary": "Worked on the extension of CRMs paper by Prof. Srinivasan and Tirthraj Dash, a form of 'explainable neural networks' by large-scale pretraining and examining their behavior.",
+      "highlights": ["Symbolic AI", "Autoencoders"]
     },
     {
       "name": "APPCAIR, BITS Pilani",
       "position": "Student Researcher",
       "url": "",
-      "startDate": "2024-01-01",
-      "endDate": "2024-05-31",
-      "summary": "Worked on the extension of CRMs paper by Prof. Srinivasan and Tirthraj Dash, a form of 'explainable neural networks' by large-scale pretraining and examining their behaviour.",
-      "highlights": ["Symbolic AI", "Autoencoders"]
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-31",
+      "summary": "Under the guidance of Senior Prof. Ashwin Srinivasan, Dr. Lovekesh Vig, and Dr. Gautam Shroff, I worked in collaboration with TCS research to study and analyze the performance of LLM's ability to reason over arguments by introducing Argumentative Reasoning.",
+      "highlights": ["Large Language Models", "LLM Agents"]
+    },
+    {
+      "name": "Dino.co.in",
+      "position": "Summer Intern",
+      "url": "",
+      "startDate": "2023-05-01",
+      "endDate": "2024-07-01",
+      "summary": "Demonstrated initiative and managed project independently to develop a GPT-powered chatbot using LangChain to facilitate content creation and enhanced customer support",
+      "highlights": ["LangChain", "prompting"]
     }
   ],
   "volunteer": [
@@ -204,6 +213,14 @@
       "startDate": "2023-03-01",
       "endDate": "2023-04-01",
       "url": "https://github.com/Tej-55/SAiDL-Summer-Assignment-2023-CV"
+    },
+    {
+      "name": "Variations of Softmax",
+      "summary": "Project analyzed how various Softmax variants affect both model performance and training time, evaluating them on large-class classification tasks. This explores the trade-offs between computational complexity and model accuracy to enhance computational efficiency",
+      "highlights": [],
+      "startDate": "2023-03-01",
+      "endDate": "2023-04-01",
+      "url": "https://github.com/Tej-55/SAiDL-Summer-Assignment-2023-Core_ML"
     }
   ]
 }
