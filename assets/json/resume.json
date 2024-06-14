@@ -175,8 +175,8 @@
   ],
   "projects": [
     {
-      "name": "Re: Teaching CLIP to Count to Ten",
-      "summary": "The project involves reproducing the CLIP paper, ensuring implementation accessibility, and using a specialized dataset for training.",
+      "name": "CountCLIP",
+      "summary": "The project involves reproducing the ICCV 2023 paper 'Teaching CLIP to Count to ten', ensuring implementation accessibility, and using a specialized dataset for training.",
       "highlights": [],
       "startDate": "2024-02-01",
       "endDate": "2024-04-01",
