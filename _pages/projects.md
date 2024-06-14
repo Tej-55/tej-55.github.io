@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Currently under construction 🚧🏗️🚚🚧... Please go to the [CV section](https://tej-55.github.io/cv/#projects) for more information on projects
 nav: true
 nav_order: 3
 display_categories: [work, fun]
