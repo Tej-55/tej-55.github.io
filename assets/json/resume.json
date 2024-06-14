@@ -132,7 +132,7 @@
       "issuer": "Stanford University",
       "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU",
       "icon": "fa-solid fa-hashtag"
-    },
+    }
   ],
   "publications": [
   ],
@@ -204,6 +204,6 @@
       "startDate": "2023-03-01",
       "endDate": "2023-04-01",
       "url": "https://github.com/Tej-55/SAiDL-Summer-Assignment-2023-CV"
-    },
+    }
   ]
 }
