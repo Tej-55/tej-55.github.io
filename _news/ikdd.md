@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected for IKDD Uplink Research Internship (among 11 students in the country). I will be working under [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) of IIT-Bombay.
+Selected for [IKDD](https://ikdd.acm.org/) (India chapter of ACM SIGKDD) - [Uplink Research Internship](https://ikdd.acm.org/uplink.php) (among 11 students in the country). I will be working under [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) of IIT-Bombay.
