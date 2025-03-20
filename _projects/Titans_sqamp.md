@@ -6,7 +6,7 @@ img: assets/img/titans_front.jpeg
 importance: 1
 category: work
 ---
-[![Link to Repo](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github-icon.svg)](https://github.com/Tej-55/TITANS-SqAmp-Calculation)
+[![Link to Repo](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/github.svg)](https://github.com/Tej-55/TITANS-SqAmp-Calculation)
 
 ## Project Overview
 
