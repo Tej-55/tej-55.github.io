@@ -2,7 +2,7 @@
 layout: page
 title: Rank-N-Contrast
 description: Learning Continuous Representations for Regression
-img: assets\img\rnc_paper_prev.png
+img: assets/img/rnc_paper_prev.png
 importance: 1
 category: work
 ---
@@ -14,7 +14,7 @@ This project reproduces the NeurIPS 2023 Spotlight paper [Rank-N-Contrast: Learn
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\rnc_paper_prev.png" title="Representation visualization comparison" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rnc_paper_prev.png" title="Representation visualization comparison" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -39,7 +39,7 @@ loss = criterion(features, labels) # features: (bs, 2, fear_dim), labels: (bs, l
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\rnc_concept.png" title="RNC framework" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/rnc_concept.png" title="RNC framework" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -56,7 +56,7 @@ We reproduced the original paper's results using the AgeDB dataset, which contai
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\agedb_prev.png" title="AgeDB examples" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/agedb_prev.png" title="AgeDB examples" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -70,7 +70,7 @@ Our implementation follows a two-stage approach:
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\representation_space_cv.png" title="UMAP visualization of training data" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/representation_space_cv.png" title="UMAP visualization of training data" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
