@@ -13,7 +13,7 @@ category: work
 In particle physics, squared amplitudes are crucial for calculating cross-sections, which provide a testable link between theory and experiment. This project explores how modern transformer architectures can learn to map from amplitudes to their squared forms using sequence-to-sequence modeling.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\feynman_dia.png" title="Feynman diagram representation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/feynman_dia.png" title="Feynman diagram representation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -28,7 +28,7 @@ The TITANS architecture represents a significant advancement in how AI models ha
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\titans_arch.jpeg" title="TITANS MAC architecture diagram" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/titans_arch.jpeg" title="TITANS MAC architecture diagram" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -92,10 +92,10 @@ The results demonstrate a significant performance advantage for the TITANS archi
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\tp1.png" title="T5 Training Loss" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/tp1.png" title="T5 Training Loss" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\tp2.png" title="TITANS Training Loss" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/tp2.png" title="TITANS Training Loss" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

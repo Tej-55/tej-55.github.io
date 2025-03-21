@@ -2,7 +2,7 @@
 layout: page
 title: CountCLIP
 description: Teaching CLIP to Count to Ten
-img: assets\img\countclip.gif
+img: assets/img/countclip.gif
 importance: 1
 category: work
 ---
@@ -18,7 +18,7 @@ Large vision-language models like CLIP have revolutionized computer vision by le
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\countclip_ex.png" title="CLIP counting limitation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/countclip_ex.png" title="CLIP counting limitation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -31,7 +31,7 @@ CountCLIP addresses this limitation by fine-tuning CLIP with a specialized count
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid path="assets\img\countclip_method.png" title="CountCLIP methodology" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/countclip_method.png" title="CountCLIP methodology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -57,7 +57,7 @@ CountCLIP significantly outperforms standard CLIP models on counting tasks while
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets\img\countclip.gif" title="CountCLIP demonstration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/countclip.gif" title="CountCLIP demonstration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
