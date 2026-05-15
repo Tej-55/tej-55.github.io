@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Fellow at Microsoft on the [PROSE team](https://www.microsoft.com/en-us/research/group/prose/), where I'm working on pretty cool projects. I graduated from [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/) with a Bachelor of Engineering in Electrical and Electronics Engineering.
+I am a Research Fellow at Microsoft on the [PROSE team](https://www.microsoft.com/en-us/research/group/prose/), where I work on program synthesis and applications of LLMs to code. I graduated from [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/) with a Bachelor of Engineering in Electrical and Electronics Engineering.
 
 During my academic journey, I collaborated with [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/) from [CSALT](https://www.cse.iitb.ac.in/~pjyothi/csalt/), IIT-Bombay on advancing Automatic Speech Recognition (ASR) systems for low-resource accented speeches. I also worked with Senior [Prof. Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/), [Dr. Lovekesh Vig](https://sites.google.com/site/lovekeshhome/), and [Dr. Gautam Shroff](https://www.tcs.com/insights/authors/gautamshroff) at [APPCAIR](https://appcair.com/), studying the behavior of Large Language Models in argumentative contexts.
 
